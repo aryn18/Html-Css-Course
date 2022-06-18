@@ -1,0 +1,11 @@
+What is Html - 
+
+Hypertext Markup Language
+tool we use to create websites
+giving instructions to a computer
+
+syntax= rules of writing code in other languages grammer (for code)
+<a> anchor tag link to another website
+
+href="https://www.youtube.com this sytax means html attribute modiifes how an element behaves
+href is attribute name and the attribute value stored in double quotes
